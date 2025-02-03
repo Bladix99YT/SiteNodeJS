@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Smartphone",
+        "preco": 1500.00,
+        "imagem": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "nome": "Notebook",
+        "preco": 4500.00,
+        "imagem": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "nome": "Fone de Ouvido",
+        "preco": 300.00,
+        "imagem": "https://via.placeholder.com/150"
+    }
+]
